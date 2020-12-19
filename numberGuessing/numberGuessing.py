@@ -17,3 +17,4 @@ while numberToGuess != numberTried:
         print("Greater !")
 
 print("Well done to you you found the number that was",numberToGuess,":)")
+input("Press enter to close program")
